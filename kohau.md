@@ -1,5 +1,5 @@
 # Feel free to use!
-**Kohau:**
+## **Kohau:**
 *Greetings (Registers)*
 - Hey there! 👋 Welcome to Kohaù! 🌟 I’m [USERNAME] and I’ll be serving you today. 🥂 How many are in your party? 🎉
 - Where would you like to sit? 🔥 Grills (best choice!), 🛋️ Booth, 🍽️ Table, or 🎮 GamePass Dining? Let’s get the party started! 🎉
