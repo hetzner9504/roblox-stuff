@@ -1,6 +1,6 @@
 # Boba Cafe - Feel free to use!
 *Greetings:*
-- 🎊 | Welcome to **Boba Café**! ☕✨ What would you like to order? Our menu features a delicious selection of refreshing boba beverages 🧋 and tasty snacks 🍪.
+- 🎊 | Welcome to Boba Café! ☕✨ What would you like to order? Our menu features a delicious selection of refreshing boba beverages and tasty snacks 🍪.
   
 - 📏 | What size would you like? We offer **small, medium, and large** 🥤. Let me know your preference, and I'll make sure you get the perfect size! 😊
   
